@@ -1,8 +1,8 @@
 <div class="container-fluid">
-	<p>Evaluation is closed.</p>
+	<p>Đánh giá đã được đóng.</p>
 </div>
 <div class="modal-footer display p-0 m-0">
-        <a href="./index.php" class="btn btn-primary bg-gradient-primary">Home</a>
+        <a href="./index.php" class="btn btn-primary bg-gradient-primary">Trang chủ</a>
 </div>
 <style>
 	#uni_modal .modal-footer{

@@ -50,7 +50,7 @@ header("location:index.php?page=home");
           <label for="">Đăng nhập với tư cách</label>
           <select name="login" id="" class="custom-select custom-select-sm">
             <option value="3">Sinh Viên</option>
-            <option value="2">Khoa</option>
+            <option value="2">Giảng Viên</option>
             <option value="1">Admin</option>
           </select>
         </div>

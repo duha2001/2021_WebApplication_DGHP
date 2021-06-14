@@ -16,7 +16,7 @@ function ordinal_suffix($num){
 <div class="col-lg-12">
 	<div class="callout callout-info">
 		<div class="d-flex w-100 justify-content-center align-items-center">
-			<label for="faculty">Chọn Khoa</label>
+			<label for="faculty">Chọn Giảng Viên</label>
 			<div class=" mx-2 col-md-4">
 			<select name="" id="faculty_id" class="form-control form-control-sm select2">
 				<option value=""></option>
