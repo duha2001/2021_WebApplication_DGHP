@@ -35,9 +35,7 @@ include 'db_connect.php';
                     while ($row = $qry->fetch_assoc()) :
                     ?>
                         <tr>
-                            <th class="text-center"><?php
-                                                    echo $i++;
-                                                    ?></th>
+                            <th class="text-center"><?php echo $i++; ?></th>
                             <td><b><?php
                                     echo $row['year'];
                                     ?></b></td>
