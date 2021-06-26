@@ -75,6 +75,7 @@ header("location:index.php?page=home");
   </div>
 </div>
 <!-- /.login-box -->
+
 <!-- JavaScript -->
 <script>
   $(document).ready(function(){
@@ -104,6 +105,8 @@ header("location:index.php?page=home");
   })
   })
 </script>
+<!-- End JavaScript -->
+
 <?php include 'footer.php' ?>
 
 </body>
