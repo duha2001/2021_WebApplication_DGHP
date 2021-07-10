@@ -12,7 +12,10 @@
 - Hoặc tài khoản
     + Tên đăng nhập: admin@hcmue.edu.vn
     + Mật khẩu: admin123
-    + Về phía Users:
+
+- Hoặc tài khoản
+    + Tên đăng nhập: admin@hcmue.edu.vn
+    + Về phía Users: anhdu2001
         - Đăng nhập theo tài khoản mà đã được cấp và phải chọn đúng phân loại tài khoản để vô
         ![image](https://user-images.githubusercontent.com/59979503/121502663-94ceda00-ca0a-11eb-88d0-1ec7f43cfc69.png)
 
