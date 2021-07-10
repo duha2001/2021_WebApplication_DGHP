@@ -1,0 +1,14 @@
+Admin: 
+TK: admin@hcmue.edu.vn
+MK: admin123
+Hoặc
+TK: admin@hcmue.edu.vn
+MK: anhdu2001
+
+Giảng viên:
+TK: tranvana@hcmue.edu.vn
+MK: 123456
+
+Sinh viên:
+TK: 4501104041@hcmue.edu.vn
+MK: 123456
